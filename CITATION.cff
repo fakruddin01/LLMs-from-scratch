@@ -8,7 +8,7 @@ authors:
     given-names: "Sebastian"
 license: "Apache-2.0"
 url: "https://www.manning.com/books/build-a-large-language-model-from-scratch"
-repository-code: "https://github.com/rasbt/LLMs-from-scratch"
+repository-code: "https://github.com/fakruddin01/LLMs-from-scratch"
 keywords:
   - large language models
   - natural language processing
@@ -16,3 +16,4 @@ keywords:
   - PyTorch
   - machine learning
   - deep learning
+
